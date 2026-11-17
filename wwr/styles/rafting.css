@@ -6,13 +6,9 @@
 
 :root {
     --primary-color: rgb(113, 137, 243);
-    /* forest green */
     --secondary-color: #f4a261;
-    /* warm sand */
     --accent1-color: #2a3034f3;
-    /* dark slate blue */
     --accent2-color: white;
-    /* light golden yellow */
     --heading-font: "Times New Roman", "Georgia", serif;
     --body-font: Arial, Helvetica, sans-serif;
 }
