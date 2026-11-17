@@ -6,7 +6,7 @@
 
 :root {
     --primary-color: rgb(113, 137, 243);
-    --secondary-color: #f4a261;
+    --secondary-color: blue;
     --accent1-color: #2a3034f3;
     --accent2-color: white;
     --heading-font: "Times New Roman", "Georgia", serif;
@@ -15,7 +15,7 @@
 
 header {
     background-color: var(--accent2-color);
-    color: blue;
+    color: var(--secondary-color);
 }
 
 body {
@@ -76,7 +76,7 @@ h2 {
     padding: 16px;
 }
 
-article {
+.hero article {
     position: absolute;
     bottom: 20px;
     left: 20px;
